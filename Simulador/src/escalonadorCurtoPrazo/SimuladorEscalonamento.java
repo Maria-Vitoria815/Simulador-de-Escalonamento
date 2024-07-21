@@ -7,7 +7,6 @@ public class SimuladorEscalonamento {
 	
 	 static int tempoAtual = 0;
 
-
 	    public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);
 	        ArrayList<Processo> processos = new ArrayList<>();
